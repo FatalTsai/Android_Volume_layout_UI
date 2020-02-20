@@ -1,0 +1,13 @@
+<vector android:height="20dp"   android:tint="#FFFFFF"
+    android:viewportHeight="20.0" android:viewportWidth="20.0"
+    android:width="20dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffff" android:pathData="
+                 M 10, 10
+                 m -7, 0
+                 a 7,7 0 1,0 15,0
+                 a 7,7 0 1,0 -15,0
+
+                 "/>
+
+</vector>
+    <!--- https://codepen.io/jakob-e/pen/bgBegJ -->
